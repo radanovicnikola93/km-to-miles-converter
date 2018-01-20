@@ -1,2 +1,2 @@
 # km-to-miles-converter
-A simple kilometres to miles converter
+Two simple kilometres to miles converter
