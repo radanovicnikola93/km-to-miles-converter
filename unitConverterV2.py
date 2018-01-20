@@ -16,9 +16,3 @@ while True:
         print("Thank you and goodbye!")
         break
 
-    # if question.upper() == "Y" and question.upper() == "YES":
-    #     break
-    #
-    # elif question.upper() == "N" and question.upper() == "NO":
-    #     break
-
